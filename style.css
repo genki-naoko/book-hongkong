@@ -118,7 +118,7 @@ iframe{
 
 
 .cover-home{
-    background-image: url(../images/home_s.webp);
+    background-image: url(images/home_s.webp);
 }
 
 .about{
@@ -132,7 +132,7 @@ iframe{
 }
 
 .cover-news{
-    background-image: url(../images/news_s.webp);
+    background-image: url(images/news_s.webp);
 }
 
 .post{
@@ -204,7 +204,7 @@ iframe{
 
 /*Works*/
 .cover-menu{
-    background-image: url(../images/books_s.webp);
+    background-image: url(images/books_s.webp);
 }
 
 .grid{
@@ -225,7 +225,7 @@ iframe{
 }
 
 .cover-contact{
-    background-image: url(../images/contact_s.webp);
+    background-image: url(images/contact_s.webp);
 }
 
 .location{
@@ -271,7 +271,7 @@ iframe{
 
 /*フッター*/
 .page-footer{
-    background-image: url(../images/footer-s.webp);
+    background-image: url(images/footer-s.webp);
     background-size: cover;
     background-position: center;
     padding-top: 12rem;
@@ -340,7 +340,7 @@ iframe{
 
     /*HOME*/
     .cover-home{
-        background-image: url(../images/home_l.webp);
+        background-image: url(images/home_l.webp);
     }
     .about{
         margin: 4rem auto 0;
@@ -348,7 +348,7 @@ iframe{
 
     /*News*/
     .cover-news{
-        background-image: url(../images/news_l.webp);
+        background-image: url(images/news_l.webp);
     }
 
     .news-contents{
@@ -377,7 +377,7 @@ iframe{
 
     /*Works*/
     .cover-menu{
-        background-image: url(../images/books_l.webp);
+        background-image: url(images/books_l.webp);
     }
 
     .grid{
@@ -404,7 +404,7 @@ iframe{
     }
 
     .cover-contact{
-        background-image: url(../images/contact_l.webp);
+        background-image: url(images/contact_l.webp);
     }
 
     .location{
